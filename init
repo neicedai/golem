@@ -1,0 +1,3 @@
+cp golem.service /etc/systemd/system
+service golem start
+systemctl enable golem
